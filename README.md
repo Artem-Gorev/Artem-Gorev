@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Артём Горев 👋
 
-<!--
-**Artem-Gorev/Artem-Gorev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент ИТММ ННГУ (Прикладная математика и информатика).  
+Специализируюсь на **C/C++** и системном программировании.
 
-Here are some ideas to get you started:
+## 🛠 Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Системное программирование:** POSIX Threads, std::thread, TCP/IP, сокеты, poll/select  
+**Инструменты:** Git, CMake, Google Test, Valgrind, cppcheck  
+**ОС:** Linux, macOS  
+
+
+## 🏆 Достижения
+
+- Интенсив «Бассейн» — **топ-5 из 200 участников (топ-2.5%)**
+
+## 📫 Контакты
+
+[![Telegram](https://img.shields.io/badge/@Art_Gorev-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Art_Gorev)
+[![Email](https://img.shields.io/badge/artemgorev2006@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:artemgorev2006@gmail.com)
